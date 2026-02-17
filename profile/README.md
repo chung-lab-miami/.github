@@ -16,7 +16,7 @@ We study **sleep, health, and behavior** using computational methods — machine
 |---|---|
 | [pca-sleep-scores](https://github.com/chung-lab-miami/pca-sleep-scores) | PCA-derived composite sleep health score predicting mortality in MESA (N=1,726) — [Interactive Page](https://chung-lab-miami.github.io/pca-sleep-scores/) |
 | [sleep-clusters-mesa](https://github.com/chung-lab-miami/sleep-clusters-mesa) | Unsupervised clustering of wearable actigraphy data predicting mortality in MESA (N=1,759) — [Interactive Page](https://chung-lab-miami.github.io/sleep-clusters-mesa/) |
-| [Sleep-Newspapers-TextMining](https://github.com/chung-lab-miami/Sleep-Newspapers-TextMining) | Structural topic modeling of 25,766 U.S. newspaper articles on sleep (1983–2017) |
+| [sleep-newspapers-textmining](https://github.com/chung-lab-miami/sleep-newspapers-textmining) | Structural topic modeling of 25,766 U.S. newspaper articles on sleep (1983–2017) |
 | [sleep-dashboard](https://github.com/chung-lab-miami/sleep-dashboard) | Interactive sleep data visualization |
 
 ## About
