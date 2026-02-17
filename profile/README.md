@@ -2,24 +2,22 @@
 
 Research lab of **Joon Chung, PhD** at the University of Miami.
 
-We study **sleep, health, and behavior** using computational methods — natural language processing, machine learning, and health data science.
+We study **sleep, health, and behavior** using computational methods — machine learning, survival analysis, causal inference, and health data science.
 
 ## Research Areas
 
+- **Sleep & Mortality** — PCA-derived composite scores and unsupervised clustering of wearable data to predict survival outcomes
 - **Sleep & Public Discourse** — Structural topic modeling of how sleep is discussed in U.S. media and its relationship to public health
-- **Actigraphy & Sleep Measurement** — Signal processing pipelines for wrist-worn activity monitors
-- **Health AI** — Tracking and analyzing the landscape of AI applications in healthcare
-- **Text as Data** — NLP methods applied to large-scale health and media corpora
+- **Actigraphy & Sleep Measurement** — Signal processing and feature engineering from wrist-worn activity monitors
 
 ## Repositories
 
 | Repository | Description |
 |---|---|
+| [pca-sleep-scores](https://github.com/chung-lab-miami/pca-sleep-scores) | PCA-derived composite sleep health score predicting mortality in MESA (N=1,726) — [Interactive Page](https://chung-lab-miami.github.io/pca-sleep-scores/) |
+| [sleep-clusters-mesa](https://github.com/chung-lab-miami/sleep-clusters-mesa) | Unsupervised clustering of wearable actigraphy data predicting mortality in MESA (N=1,759) — [Interactive Page](https://chung-lab-miami.github.io/sleep-clusters-mesa/) |
 | [Sleep-Newspapers-TextMining](https://github.com/chung-lab-miami/Sleep-Newspapers-TextMining) | Structural topic modeling of 25,766 U.S. newspaper articles on sleep (1983–2017) |
 | [sleep-dashboard](https://github.com/chung-lab-miami/sleep-dashboard) | Interactive sleep data visualization |
-| [sleep-scoring-signals](https://github.com/chung-lab-miami/sleep-scoring-signals) | ETL pipeline for wrist actigraphy scoring |
-| [healthcare-ai-tracker](https://github.com/chung-lab-miami/healthcare-ai-tracker) | Tracking AI applications in healthcare |
-| [ml-for-text-as-data](https://github.com/chung-lab-miami/ml-for-text-as-data) | NLP with Structural Topic Models on newspaper corpora |
 
 ## About
 
